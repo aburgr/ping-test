@@ -1,0 +1,40 @@
+PING 8.8.8.8 (8.8.8.8): 56 data bytes
+64 bytes from 8.8.8.8: seq=25 ttl=117 time=10.251 ms
+64 bytes from 8.8.8.8: seq=26 ttl=117 time=9.554 ms
+64 bytes from 8.8.8.8: seq=27 ttl=117 time=9.325 ms
+64 bytes from 8.8.8.8: seq=28 ttl=117 time=16.205 ms
+64 bytes from 8.8.8.8: seq=29 ttl=117 time=9.111 ms
+64 bytes from 8.8.8.8: seq=30 ttl=117 time=11.861 ms
+64 bytes from 8.8.8.8: seq=31 ttl=117 time=9.515 ms
+64 bytes from 8.8.8.8: seq=32 ttl=117 time=9.195 ms
+64 bytes from 8.8.8.8: seq=33 ttl=117 time=9.633 ms
+64 bytes from 8.8.8.8: seq=34 ttl=117 time=8.925 ms
+64 bytes from 8.8.8.8: seq=35 ttl=117 time=9.711 ms
+64 bytes from 8.8.8.8: seq=36 ttl=117 time=9.552 ms
+64 bytes from 8.8.8.8: seq=37 ttl=117 time=9.094 ms
+64 bytes from 8.8.8.8: seq=38 ttl=117 time=9.439 ms
+64 bytes from 8.8.8.8: seq=39 ttl=117 time=10.162 ms
+64 bytes from 8.8.8.8: seq=40 ttl=117 time=9.013 ms
+64 bytes from 8.8.8.8: seq=41 ttl=117 time=10.081 ms
+64 bytes from 8.8.8.8: seq=42 ttl=117 time=9.856 ms
+64 bytes from 8.8.8.8: seq=43 ttl=117 time=9.997 ms
+64 bytes from 8.8.8.8: seq=44 ttl=117 time=10.047 ms
+64 bytes from 8.8.8.8: seq=45 ttl=117 time=9.754 ms
+64 bytes from 8.8.8.8: seq=46 ttl=117 time=9.681 ms
+64 bytes from 8.8.8.8: seq=47 ttl=117 time=9.493 ms
+64 bytes from 8.8.8.8: seq=48 ttl=117 time=9.215 ms
+64 bytes from 8.8.8.8: seq=49 ttl=117 time=9.535 ms
+64 bytes from 8.8.8.8: seq=50 ttl=117 time=9.435 ms
+64 bytes from 8.8.8.8: seq=51 ttl=117 time=9.648 ms
+64 bytes from 8.8.8.8: seq=52 ttl=117 time=9.551 ms
+64 bytes from 8.8.8.8: seq=53 ttl=117 time=9.682 ms
+64 bytes from 8.8.8.8: seq=54 ttl=117 time=9.491 ms
+64 bytes from 8.8.8.8: seq=55 ttl=117 time=9.807 ms
+64 bytes from 8.8.8.8: seq=56 ttl=117 time=9.466 ms
+64 bytes from 8.8.8.8: seq=57 ttl=117 time=9.087 ms
+64 bytes from 8.8.8.8: seq=58 ttl=117 time=9.123 ms
+64 bytes from 8.8.8.8: seq=59 ttl=117 time=9.276 ms
+
+--- 8.8.8.8 ping statistics ---
+60 packets transmitted, 35 packets received, 41% packet loss
+round-trip min/avg/max = 8.925/9.793/16.205 ms

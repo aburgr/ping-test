@@ -1,0 +1,8 @@
+version: '2'
+services:
+  ping-test:
+    container_name: ping-test
+    image: "andiburgr/ping-test:latest"
+    restart: always
+    volumes:
+      - "./output:/output"

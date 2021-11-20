@@ -1,0 +1,41 @@
+PING 8.8.8.8 (8.8.8.8): 56 data bytes
+64 bytes from 8.8.8.8: seq=23 ttl=116 time=10.404 ms
+64 bytes from 8.8.8.8: seq=24 ttl=116 time=9.730 ms
+64 bytes from 8.8.8.8: seq=25 ttl=116 time=10.164 ms
+64 bytes from 8.8.8.8: seq=26 ttl=116 time=9.275 ms
+64 bytes from 8.8.8.8: seq=27 ttl=116 time=13.094 ms
+64 bytes from 8.8.8.8: seq=28 ttl=116 time=9.302 ms
+64 bytes from 8.8.8.8: seq=29 ttl=116 time=8.918 ms
+64 bytes from 8.8.8.8: seq=30 ttl=116 time=13.568 ms
+64 bytes from 8.8.8.8: seq=31 ttl=116 time=9.436 ms
+64 bytes from 8.8.8.8: seq=32 ttl=116 time=9.354 ms
+64 bytes from 8.8.8.8: seq=33 ttl=116 time=10.026 ms
+64 bytes from 8.8.8.8: seq=34 ttl=116 time=13.395 ms
+64 bytes from 8.8.8.8: seq=35 ttl=116 time=12.800 ms
+64 bytes from 8.8.8.8: seq=36 ttl=116 time=10.824 ms
+64 bytes from 8.8.8.8: seq=38 ttl=116 time=9.205 ms
+64 bytes from 8.8.8.8: seq=39 ttl=116 time=13.977 ms
+64 bytes from 8.8.8.8: seq=40 ttl=116 time=10.103 ms
+64 bytes from 8.8.8.8: seq=41 ttl=116 time=10.204 ms
+64 bytes from 8.8.8.8: seq=42 ttl=116 time=9.525 ms
+64 bytes from 8.8.8.8: seq=43 ttl=116 time=9.878 ms
+64 bytes from 8.8.8.8: seq=44 ttl=116 time=10.638 ms
+64 bytes from 8.8.8.8: seq=45 ttl=116 time=9.475 ms
+64 bytes from 8.8.8.8: seq=46 ttl=116 time=9.315 ms
+64 bytes from 8.8.8.8: seq=47 ttl=116 time=9.393 ms
+64 bytes from 8.8.8.8: seq=48 ttl=116 time=13.496 ms
+64 bytes from 8.8.8.8: seq=49 ttl=116 time=9.714 ms
+64 bytes from 8.8.8.8: seq=50 ttl=116 time=9.177 ms
+64 bytes from 8.8.8.8: seq=51 ttl=116 time=9.963 ms
+64 bytes from 8.8.8.8: seq=52 ttl=116 time=9.888 ms
+64 bytes from 8.8.8.8: seq=53 ttl=116 time=9.529 ms
+64 bytes from 8.8.8.8: seq=54 ttl=116 time=9.430 ms
+64 bytes from 8.8.8.8: seq=55 ttl=116 time=10.685 ms
+64 bytes from 8.8.8.8: seq=56 ttl=116 time=14.039 ms
+64 bytes from 8.8.8.8: seq=57 ttl=116 time=14.338 ms
+64 bytes from 8.8.8.8: seq=58 ttl=116 time=12.511 ms
+64 bytes from 8.8.8.8: seq=59 ttl=116 time=11.111 ms
+
+--- 8.8.8.8 ping statistics ---
+60 packets transmitted, 36 packets received, 40% packet loss
+round-trip min/avg/max = 8.918/10.719/14.338 ms

@@ -1,0 +1,56 @@
+PING 8.8.8.8 (8.8.8.8): 56 data bytes
+64 bytes from 8.8.8.8: seq=9 ttl=116 time=10.113 ms
+64 bytes from 8.8.8.8: seq=10 ttl=116 time=9.219 ms
+64 bytes from 8.8.8.8: seq=11 ttl=116 time=9.680 ms
+64 bytes from 8.8.8.8: seq=12 ttl=116 time=8.884 ms
+64 bytes from 8.8.8.8: seq=13 ttl=116 time=10.204 ms
+64 bytes from 8.8.8.8: seq=14 ttl=116 time=8.696 ms
+64 bytes from 8.8.8.8: seq=15 ttl=116 time=9.419 ms
+64 bytes from 8.8.8.8: seq=16 ttl=116 time=9.135 ms
+64 bytes from 8.8.8.8: seq=17 ttl=116 time=9.395 ms
+64 bytes from 8.8.8.8: seq=18 ttl=116 time=9.225 ms
+64 bytes from 8.8.8.8: seq=19 ttl=116 time=9.077 ms
+64 bytes from 8.8.8.8: seq=20 ttl=116 time=9.637 ms
+64 bytes from 8.8.8.8: seq=21 ttl=116 time=8.798 ms
+64 bytes from 8.8.8.8: seq=22 ttl=116 time=13.521 ms
+64 bytes from 8.8.8.8: seq=23 ttl=116 time=8.922 ms
+64 bytes from 8.8.8.8: seq=24 ttl=116 time=9.218 ms
+64 bytes from 8.8.8.8: seq=25 ttl=116 time=9.379 ms
+64 bytes from 8.8.8.8: seq=26 ttl=116 time=9.238 ms
+64 bytes from 8.8.8.8: seq=27 ttl=116 time=9.395 ms
+64 bytes from 8.8.8.8: seq=28 ttl=116 time=9.253 ms
+64 bytes from 8.8.8.8: seq=29 ttl=116 time=9.143 ms
+64 bytes from 8.8.8.8: seq=30 ttl=116 time=9.026 ms
+64 bytes from 8.8.8.8: seq=31 ttl=116 time=9.257 ms
+64 bytes from 8.8.8.8: seq=32 ttl=116 time=8.730 ms
+64 bytes from 8.8.8.8: seq=33 ttl=116 time=9.140 ms
+64 bytes from 8.8.8.8: seq=34 ttl=116 time=9.154 ms
+64 bytes from 8.8.8.8: seq=35 ttl=116 time=9.208 ms
+64 bytes from 8.8.8.8: seq=36 ttl=116 time=9.593 ms
+64 bytes from 8.8.8.8: seq=37 ttl=116 time=9.234 ms
+64 bytes from 8.8.8.8: seq=38 ttl=116 time=9.481 ms
+64 bytes from 8.8.8.8: seq=39 ttl=116 time=9.464 ms
+64 bytes from 8.8.8.8: seq=40 ttl=116 time=9.639 ms
+64 bytes from 8.8.8.8: seq=41 ttl=116 time=9.436 ms
+64 bytes from 8.8.8.8: seq=42 ttl=116 time=9.214 ms
+64 bytes from 8.8.8.8: seq=43 ttl=116 time=9.386 ms
+64 bytes from 8.8.8.8: seq=44 ttl=116 time=9.460 ms
+64 bytes from 8.8.8.8: seq=45 ttl=116 time=11.497 ms
+64 bytes from 8.8.8.8: seq=46 ttl=116 time=9.435 ms
+64 bytes from 8.8.8.8: seq=47 ttl=116 time=10.212 ms
+64 bytes from 8.8.8.8: seq=48 ttl=116 time=9.797 ms
+64 bytes from 8.8.8.8: seq=49 ttl=116 time=9.879 ms
+64 bytes from 8.8.8.8: seq=50 ttl=116 time=9.876 ms
+64 bytes from 8.8.8.8: seq=51 ttl=116 time=9.504 ms
+64 bytes from 8.8.8.8: seq=52 ttl=116 time=9.433 ms
+64 bytes from 8.8.8.8: seq=53 ttl=116 time=9.668 ms
+64 bytes from 8.8.8.8: seq=54 ttl=116 time=9.782 ms
+64 bytes from 8.8.8.8: seq=55 ttl=116 time=9.583 ms
+64 bytes from 8.8.8.8: seq=56 ttl=116 time=9.377 ms
+64 bytes from 8.8.8.8: seq=57 ttl=116 time=9.488 ms
+64 bytes from 8.8.8.8: seq=58 ttl=116 time=9.318 ms
+64 bytes from 8.8.8.8: seq=59 ttl=116 time=9.542 ms
+
+--- 8.8.8.8 ping statistics ---
+60 packets transmitted, 51 packets received, 15% packet loss
+round-trip min/avg/max = 8.696/9.516/13.521 ms
